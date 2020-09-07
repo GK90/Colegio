@@ -55,11 +55,26 @@ and open the template in the editor.
                 </nav>
 
                 <div class="container-fluid">
-                    <iframe src="partes/NavIsquierdo.php" style="width: 90%; height: 80%" name="formularios"></iframe>
-                    
-                    <h1 class="mt-4">Simple Sidebar</h1>
-                    <p>The starting state of the menu will appear collapsed on smaller screens, and will appear non-collapsed on larger screens. When toggled using the button below, the menu will change.</p>
-                    <p>Make sure to keep all page content within the <code>#page-content-wrapper</code>. The top navbar is optional, and just for demonstration. Just create an element with the <code>#menu-toggle</code> ID which will toggle the menu when clicked.</p>
+                    <iframe class="mt-xl-0" src="Alumnos/alumnos.php" style="width: 100%; height: 750px" name="formularios"></iframe>
+                    <table class="table-bordered">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+
                 </div>
             </div>
             <!-- /#page-content-wrapper -->
